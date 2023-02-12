@@ -1,4 +1,4 @@
-# user authentication using mongoDb,express and jwt
+# Blog Application using Mongoose schema 
 
 Building a MongoDB Express API can be a straightforward process with the right tools and knowledge. Here are the steps to create a simple MongoDB Express API:
 
